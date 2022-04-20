@@ -1,0 +1,111 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+div.container {
+  border: 2px solid #80a3a2;
+  border-radius: 10px;
+  margin-top: 20px;
+  max-width: 50%;
+  padding: 30px;
+  background-color: #abcecf;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+  display: block;
+  left: 0;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 80px;
+}
+
+form {
+  border: 1px solid #80a3a2;
+  border-radius: 5px;
+}
+
+button {
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  border: 1px solid #80a3a2;
+  margin: 0 auto;
+}
+
+.units {
+  position: relative;
+  left: -40px;
+  color: white;
+  font-size: 20px;
+  font-style: none;
+}
+
+.todayWeather {
+  font-size: 30px;
+  display: inline;
+}
+
+.mb-3 {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  margin: 0;
+}
+
+div.col {
+  color: white;
+  border: 1px solid #80a3a2;
+  background-color: #c4dce0;
+  border-radius: 15px;
+  margin: 2px;
+  max-width: 100%;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.stats {
+  color: white;
+}
+
+div.weather-description {
+  text-transform: capitalize;
+}
+
+.fa-cloud {
+  color: white;
+  font-size: 80px;
+}
+
+.fa-bolt-lightning {
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #f7ea8c;
+}
+
+.fa-sun {
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #f7ea8c;
+}
+
+.fa-cloud-showers-heavy {
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
