@@ -46,6 +46,12 @@ button {
   margin: 0 auto;
 }
 
+a {
+  display: block;
+  text-align: center;
+  color: white;
+}
+
 .units {
   position: relative;
   left: -40px;
