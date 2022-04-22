@@ -1,10 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: url(/src/monstera.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("./monstera.png") no-repeat center center fixed;
 }
 
 div.container {
